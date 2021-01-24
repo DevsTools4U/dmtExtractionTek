@@ -104,11 +104,11 @@ per 1g DMT:
 
 You can repeat steps 14-29 for as long as your mixture produces crystals. You may need to add more heptane after a couple of pulls. 
 
-Freebase Storage:
+## Freebase Storage:
 
 The freebase is very fragile and can be damaged by light and heat. Wrapping the vial in tin foil and placing in a freezer should keep it fresh for some time.
 
-What now?
+## What now?
 
 A common way this freebase is applied is by throwing it in a freebase pipe or electronic vaporizer. It is potent at this stage and careful use is suggested. This method however, is an inefficient process and product can be lost. The alternative would be the formation of DMT Fumarate.
 
