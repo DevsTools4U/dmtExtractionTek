@@ -1,4 +1,4 @@
-# DMT (Dimethyl-Triptyline) Synthesis From Mimosa Hostilis (Jurema Preta) Root Bark
+# DMT (Dimethyl-Triptyline) Extraction From Mimosa Hostilis (Jurema Preta) Root Bark
 
 per 1g DMT:
 
