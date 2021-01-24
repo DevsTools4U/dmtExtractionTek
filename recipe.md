@@ -1,6 +1,4 @@
-**
-
-DMT (Dimethyl-Triptyline) Synthesis From Mimosa Hostilis (Jurema Preta) Root Bark
+# DMT (Dimethyl-Triptyline) Synthesis From Mimosa Hostilis (Jurema Preta) Root Bark
 
 per 1g DMT:
 
@@ -24,7 +22,7 @@ per 1g DMT:
 		50mL Heptane
 
 
-Steps 1-13: "Cleaning" the root bark
+## Steps 1-13: "Cleaning" the root bark
 	
 1. Place 50g root bark in freezer for 8 hrs.
 
@@ -52,7 +50,7 @@ Steps 1-13: "Cleaning" the root bark
 
 13. When the second pots filtered product has reduced by 1/3, pour remaining mixture into a jar.
 
-Steps 14-28: Drawing DMT from our "cleaned" jar mixture into aqueous solution.
+## Steps 14-28: Drawing DMT from our "cleaned" jar mixture into aqueous solution.
 
 14. Slowly, add 50g Sodium Hydroxide to jar mixture.
 
@@ -84,7 +82,7 @@ Steps 14-28: Drawing DMT from our "cleaned" jar mixture into aqueous solution.
 
 28. Place jar back in heated pot for 2.5 hrs.
 
-Steps 29-37: Forming crystals.
+## Steps 29-37: Forming crystals.
 
 29. Now you will be able to notice an aqueous layer that has formed on top of the mixture.  
 
@@ -117,7 +115,7 @@ A common way this freebase is applied is by throwing it in a freebase pipe or el
 **
 
 
-DMT Fumarate Synthesis 
+# DMT Fumarate Synthesis 
 
 per 1g DMT freebase:
 
