@@ -140,7 +140,7 @@ per 1g DMT freebase:
 
 5. Pour solution into pyrex dish and let evaporate. The resulting substance is DMT Fumarate.
 
-DMT Fumarate makes the DMT more stable so you don't have to keep it in a freezer. Also, unlike freebase, you can "do" the DMT by dissolving the DMT Fumarate in water (water-soluble).
+DMT Fumarate makes the DMT more stable so you don't have to keep it in a freezer. Also, unlike freebase, you can "do" the DMT by dissolving the DMT Fumarate in water.
 
 
 
