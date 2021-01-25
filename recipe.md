@@ -5,7 +5,7 @@ per 1g DMT:
 	gear:
 		2 pots
 		1 pyrex glass dish w/ lid
-		1 1L heat-resistant glass jar/beaker
+		1 1L heat-resistant glass jar/beaker w/lid
 		1 cheesecloth
 		1 glass vial
 		1 heat-resistant stirrer
@@ -70,17 +70,17 @@ per 1g DMT:
 
 22. Wile water is heating, remove "lid" of jar and slowly add 50 mL of Heptane to the mixture.
 
-23. Reapply "lid" and carefully shake mixture in jar until water has reached temp.
+23. Secure jar with its lid and shake mixture in jar until water has reached temp.
 
-24. When water has reached temp, turn off burner.
+24. When water has reached temp, turn off burner. Also remove lid from jar and reapply "lid" to jarred mixture.
 
 25. Now place jar mixture into pot of heated water and wait 2.5hrs.
 
-26. After 2.5 hrs, remove jar from pot.
+26. After 2 hrs, remove jar from pot.
 
-27. Reheat water to 80-90 degrees C, open/stir mixture, reapply "lid", and shake until water reaches temp.
+27. Reheat water to 80-90 degrees C, open/stir mixture, secure mixture with its lid, and shake until water reaches temp.
 
-28. Place jar back in heated pot for 2.5 hrs.
+28. Reapply the plastic bag/hairtie "lid" on jar and place jar back in heated pot for 2 hrs.
 
 ## Steps 29-37: Forming crystals.
 
