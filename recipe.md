@@ -15,8 +15,8 @@ per 1g DMT:
 		1 razorblade
 
 	ingredients:
-		Water
-		White Vinegar
+		3000mL Water
+		800mL White Vinegar
 		50g Mimosa Hostilis (Jurema Preta) Root Bark *purple dye*
 		50g Sodium Hydroxide *lye*
 		50mL Heptane
